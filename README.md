@@ -2,6 +2,8 @@
 
 A real-time cryptocurrency tracker built with Streamlit that allows users to monitor the prices, market data, and trends of various cryptocurrencies.
 
+https://cryptotracker-wcmogwkbtzhpyu33yjuaja.streamlit.app/
+
 ## Features
 
 - **Real-time Price Updates**: Displays up-to-the-minute prices for various cryptocurrencies like Bitcoin, Ethereum, and more.
